@@ -1,0 +1,14 @@
+img {
+  border-radius: 25%;
+}
+.center {
+  margin: auto;
+  width: 25%;
+  padding: 10px;
+}
+p{
+font-size: 40px
+}
+b{
+font-size: 25px
+}
